@@ -1,0 +1,11 @@
+{
+  "name": "cbwt",
+  "version": "0.0.1",
+  "description": "Basic structure for the CBWT project",
+  "main": "index.js",
+  "author": "David Gonzalez <david.gonzalez@nearform.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
